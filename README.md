@@ -3,7 +3,7 @@ Guia de Estudio del Taller de Control de Versiones con Git. Indica qué tenemos 
 
 ## Conceptos mínimos que tenemos que saber sobre el control de versiones
 * Definir brevemente en qué consiste el control de versiones. 
-* Explicar los siguientes conceptos: repositorio local, copia local, *stage*, repositorio remoto, *log*, conflicto.
+* Explicar en detalle y con ejemplos los siguientes conceptos: repositorio local, copia local, *stage*, repositorio remoto, *log*, conflicto.
 * Explicar los siguientes estados de un fichero: sin seguimiento (*untracked*), confirmado (*committed*), modificado (*modified*), preparado (*added*), ignorado (*ignored*). 
 * Explicar las siguientes operaciones: Clone, Add, Commit, Branch, Checkout, Merge, Push, Fetch, Pull, Fork y Pull Request.
 * Explicar qué son las ramas y para qué sirven.
